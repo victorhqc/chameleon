@@ -1,0 +1,22 @@
+{
+  "name": "chameleon",
+  "version": "",
+  "main": [
+    "Chameleon.class.js"
+  ],
+  "ignore": [
+    "example/",
+    "example/*"
+  ],
+  "keywords": [
+    "javascript",
+    "chameleonic",
+    "ubuntu"
+  ],
+  "homepage": "https://github.com/victorhqc/chameleon",
+  "authors": [
+    "victorhqc <victorhqc@gmail.com>"
+  ],
+  "description": "Get the main color of a picture (Inspired in the chameleonic feature in Ubuntu)",
+  "license": "MIT"
+}
