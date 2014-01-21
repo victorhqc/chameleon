@@ -1,12 +1,17 @@
 {
   "name": "chameleon",
-  "version": "",
+  "version": "0.0.0",
   "main": [
     "Chameleon.class.js"
   ],
   "ignore": [
     "example/",
-    "example/*"
+    "example/*",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ],
   "keywords": [
     "javascript",
